@@ -280,7 +280,6 @@ python
     ├── SHAP Analysis Page
     ├── Forecast Visualization Page
     └── Literature & Results Page
-```
 🔧 Troubleshooting
 Common Issues and Solutions
 Issue: ModuleNotFoundError: No module named 'streamlit'
@@ -324,6 +323,7 @@ bibtex
   type = {MSc Thesis},
   address = {Tanta, Egypt}
 }
+```
 📧 Contact
 Author: Nada Marey Maged Hassan
 Institution: Tanta University, Faculty of Commerce
