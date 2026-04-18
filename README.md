@@ -8,6 +8,7 @@ This application implements the empirical study from the MSc thesis **"Explainab
 [![License](https://img.shields.io/badge/License-Academic%20Use-green.svg?style=for-the-badge)](LICENSE)
 
 ---
+
 ### Try it Now! https://stockgrushapapp.streamlit.app/
 
 ## 📋 Table of Contents
