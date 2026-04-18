@@ -162,7 +162,7 @@ The application features a sidebar navigation menu with 5 main sections:
 
 📚 Literature & Results - Research context, hypotheses validation, conclusions
 
-Interactive Controls
+##### Interactive Controls
 Stock Ticker Dropdown: Select from AAPL, MSFT, GOOGL, NVDA, AMZN, META, TSLA, JPM, XOM, JNJ
 
 Forecast Horizon Dropdown: Choose between 1 Month, 3 Months, 6 Months, or 1 Year
@@ -190,7 +190,8 @@ stock-price-prediction-xai/
 │
 ├── app.py                          # Main Streamlit application
 ├── requirements.txt                # Python dependencies
-├── README.md                       # This file```
+├── README.md                       # This file
+```
 
 🧠 Model Architecture
 Network Configuration
@@ -278,7 +279,8 @@ python
     ├── Model Performance Page
     ├── SHAP Analysis Page
     ├── Forecast Visualization Page
-    └── Literature & Results Page```
+    └── Literature & Results Page
+```
 🔧 Troubleshooting
 Common Issues and Solutions
 Issue: ModuleNotFoundError: No module named 'streamlit'
