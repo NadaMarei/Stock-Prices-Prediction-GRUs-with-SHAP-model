@@ -185,12 +185,12 @@ Beeswarm plot: Distribution of feature impacts
 Pie chart: Feature grouping by economic category
 
 🏗️ Application Structure
-text
+```text
 stock-price-prediction-xai/
 │
 ├── app.py                          # Main Streamlit application
 ├── requirements.txt                # Python dependencies
-├── README.md                       # This file
+├── README.md                       # This file```
 
 🧠 Model Architecture
 Network Configuration
@@ -261,7 +261,7 @@ Rolling window advances by horizon length
 
 📁 Project Structure
 python
-app.py
+```app.py
 ├── Configuration & Styling
 ├── Data Functions
 │   ├── get_performance_data()
@@ -278,7 +278,7 @@ app.py
     ├── Model Performance Page
     ├── SHAP Analysis Page
     ├── Forecast Visualization Page
-    └── Literature & Results Page
+    └── Literature & Results Page```
 🔧 Troubleshooting
 Common Issues and Solutions
 Issue: ModuleNotFoundError: No module named 'streamlit'
