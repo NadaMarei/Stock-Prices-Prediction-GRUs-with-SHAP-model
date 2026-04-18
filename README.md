@@ -121,8 +121,10 @@ venv\Scripts\activate
 # On macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
+```
 
-Step 3: Install Required Dependencies
+### Step 3: Install Required Dependencies
+```
 bash
 pip install streamlit pandas numpy plotly seaborn matplotlib scikit-learn
 Or create a requirements.txt file:
@@ -139,7 +141,9 @@ Then install with:
 
 bash
 pip install -r requirements.txt
-Step 4: Run the Application
+```
+
+### Step 4: Run the Application
 bash
 streamlit run app.py
 The application will automatically open in your default web browser at http://localhost:8501.
@@ -364,4 +368,4 @@ Financial decision-making tool without human oversight
 The model predictions are based on historical patterns and do not guarantee future performance. Always consult with qualified financial advisors before making investment decisions.
 
 
-Built with ❤️ by Nada Marey
+#### Built with ❤️ by Nada Marey
