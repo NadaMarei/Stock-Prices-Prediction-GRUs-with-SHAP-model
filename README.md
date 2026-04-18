@@ -3,7 +3,7 @@
 ## Thesis Implementation: GRU Model with SHAP Explanations for Stock Trend Forecasting
 
 This application implements the empirical study from the MSc thesis **"Explainable AI with Deep Learning for Stock Prices Prediction on Time Series Big Data: An Empirical Study"** by Nada Marey Maged Hassan.
-
+Try it Now! [!https://stockgrushapapp.streamlit.app/]
 [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-Academic%20Use-green.svg?style=for-the-badge)](LICENSE)
